@@ -54,4 +54,4 @@ jobs:
           app-name: 'rklwebtest01'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A434FF79B89A4EE39731B85F889497DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78C253B3381F4666AB28005526FB6AEB }}
