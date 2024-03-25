@@ -54,4 +54,4 @@ jobs:
           app-name: 'webapp-robin-01'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE6FBB63EBF74C2394E5ADCD7A9A99FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3214D5F9A2734C2CAC384110E4E2378F }}
